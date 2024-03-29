@@ -1,3 +1,5 @@
+import builder.UserDTO;
+
 /**
  * Early Instantiation of singleton design pattern (creation of the instance at load time)
  */
